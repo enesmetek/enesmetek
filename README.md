@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">former architect, newbie full-stack developer</p>
+<p align="left">former architect, current <b>Full-Stack Developer</b></p>
 
 ###
 

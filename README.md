@@ -54,16 +54,16 @@
   <a href="https://www.linkedin.com/in/enesmetek/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
   </a>
-  <a href="twitter.com/enesmetek" target="_blank">
+  <a href="https://twitter.com/enesmetek" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="32" alt="twitter logo"  />
   </a>
-  <a href="instagram.com/enesmetek" target="_blank">
+  <a href="https://instagram.com/enesmetek" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://codepen.io/Enes-Mete" target="_blank">
+  <a href="https://https://codepen.io/Enes-Mete" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="32" alt="codepen logo"  />
   </a>
-  <a href="emkafali@gmail.com" target="_blank">
+  <a href="mailto:emkafali@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
   </a>
 </div>

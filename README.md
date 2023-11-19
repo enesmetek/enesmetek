@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I'm currently learning Typescript, React.js<br>✉️ Contact me at <a href="(emkafali@gmail.com">emkafali@gmail.com</a></p>
+<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I'm currently learning Design Patterns<br>✉️ Contact me at <a href="(emkafali@gmail.com">emkafali@gmail.com</a></p>
 
 ###
 

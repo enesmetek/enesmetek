@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">former architect, current <b>Full-Stack Developer</b></p>
+<p align="left">former architect, current <b>Fullstack Developer</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I'm currently learning Design Patterns<br>✉️ Contact me at <a href="(emkafali@gmail.com">emkafali@gmail.com</a></p>
+<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I'm currently working on Design Patterns<br>✉️ Contact me at <a href="(emkafali@gmail.com">emkafali@gmail.com</a></p>
 
 ###
 
@@ -19,13 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://i0.wp.com/restapp.io/wp-content/uploads/2022/04/Logo-Microsoft-SQL-Server.png?fit=395%2C420&ssl=1" height="32" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="sqlite logo"  />
   <img width="12" />
@@ -37,11 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
 </div>
 
 ###
